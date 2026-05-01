@@ -3,10 +3,12 @@
 KnownIssuesID = "llms:mustBeMessagesOrTxt";
 % ---- Pre-run commands -----
 
-ollamaChat = @(x) disp("... Running Ollama "+x);
-generate = @(x) disp("... Running Ollama "+x);
-openAIFunction = @(x) disp("... Running Ollama "+x);
-addParameter = @(x) disp("... Running Ollama "+x);
+Chat = "N/A";
+LLM_Response = "N/A";
+% ollamaChat = @(x) disp("... Running Ollama "+x);
+% generate = @(x) disp("... Running Ollama "+x);
+% openAIFunction = @(x) disp("... Running Ollama "+x);
+% addParameter = @(x) disp("... Running Ollama "+x);
 
 NData = 50;
 X = linspace(-5,5,NData)';
