@@ -4,9 +4,9 @@
 <a id="H_053613DF"></a>
 
 
-[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/XXXXX-PROJECTNAME) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI&project=LearnGenAI.prj&file=README.mlx)
+[![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/183786-learning-engineering-with-genai) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI&project=LearnGenAI.prj&file=README.mlx)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FREPO_NAME%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Learning-Engineering-with-GenAI)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FLearning-Engineering-with-GenAI%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Learning-Engineering-with-GenAI)
 
 **Curriculum Module**
 
@@ -20,7 +20,7 @@ This curriculum module contains interactive [MATLAB® live scripts](https://www.
 
 ## Background
 
-Learning Engineering with GenAI courseware will feature three interactive scripts. The first script will focus on an introduction to GenAI and large language models (LLMs) in MATLAB. The next script introduces the native GenAI tool in MATLAB (Copilot) and how to make the best use of it. The last script focuses on using Copilot to solve engineering problems.
+Learning Engineering with GenAI courseware will feature three interactive scripts. The first script will focus on an introduction to GenAI and large language models (LLMs) in MATLAB. The next script introduces the local GenAI tool in MATLAB (Copilot) and how to make the best use of it. The last script focuses on using Copilot to solve engineering problems.
 
 The instructions inside the live scripts will guide you through the exercises and activities. Get started with each live script by running it one section at a time. To stop running the script or a section midway (for example, when an animation is in progress), use the <img src="Images/EndIcon.png" width="19" alt="EndIcon.png"> Stop button in the **RUN** section of the **Live Editor** tab in the MATLAB Toolstrip.
 
@@ -46,7 +46,7 @@ Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https:/
 
 ### **On Desktop:**
 
-Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [LearnGenAI.prj](https://github.com/MathWorks-Teaching-Resources/AI-in-Engineered-Systems/blob/main/LearnGenAI.prj). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
+Download or clone this repository. Open MATLAB, navigate to the folder containing these scripts and double\-click on [LearnGenAI.prj](https://github.com/MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI/blob/release/LearnGenAI.prj). It will add the appropriate files to your MATLAB path and open an app that asks you where you would like to start. 
 
 Ensure you have all the required products ([listed below](#H_E850B4FF)) installed. If you need to include a product, add it using the Add\-On Explorer. To install an add\-on, go to the **Home** tab and select  <img src="Images/AddOnsIcon.png" width="16" alt="AddOnsIcon.png"> **Add-Ons** > **Get Add-Ons**. 
 
@@ -54,18 +54,18 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 
 ## Products
 
- *MATLAB* is used throughout this module. Tools from  *Simulink, Simscape, MATLAB Copilot, and Simulink Copilot* are used as well. If your module uses a product not on this list, you can find it [*here*](https://www.mathworks.com/products.html)*.*
+ *MATLAB* is used throughout this module. Tools from  *Simulink, Simscape, Simscape Fluids, Symbolic Toolbox, MATLAB Copilot, and Simulink Copilot are used as well.* are used as well. If your module uses a product not on this list, you can find it [*here*](https://www.mathworks.com/products.html)*.*
 
 <a id="H_E8C62B23"></a>
 
 # Scripts
 
-## [**GenAIFundamentals.mlx**](./Scripts/GenAIFundamentals.mlx)
+## [**GenAIFundamentals.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI&project=LearnGenAI.prj&file=Scripts/GenAIFundamentals.mlx)
 ||||
 | :-: | :-- | :-- |
 | <img src="Images/GenAIBrain.png" width="211" alt="GenAIBrain.png"> <br> Created with Adobe Firefly  | **In this script, students will...** <br> $\bullet$ Acquire knowledge of GenAI terminology and classifications <br> $\bullet$ Identify capabilities and limitations of current GenAI  <br> $\bullet$ Explore ways to access and interact with LLMs and tools in MATLAB <br> $\bullet$ Implement a local LLM with a tool in MATLAB and analyze its output <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
 
-## [**IntroToCopilot.mlx**](./Scripts/IntroToCopilot.mlx)
+## [**IntroToCopilot.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI&project=LearnGenAI.prj&file=Scripts/IntroToCopilot.mlx)
 ||||
 | :-: | :-- | :-- |
 | <img src="Images/matlab-copilot-blue.svg" width="202" alt="matlab-copilot-blue.svg"> <br>  | **In this script, students will...** <br> $\bullet$ Learn the primary features of MATLAB and Simulink Copilot  <br> $\bullet$ Generate code with MATLAB Copilot to solve an engineering problem <br> $\bullet$ Investigate and analyze a physical model using Simulink Copilot <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
@@ -79,7 +79,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 
 # License
 
-The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/AI-in-Engineered-Systems/blob/main/LICENSE.md).
+The license for this module is available in the [LICENSE.md](https://github.com/MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI/blob/release/LICENSE.md).
 
 # Related Courseware Modules
 
@@ -102,6 +102,6 @@ Or feel free to explore our other [modular courseware content](https://www.mathw
 
 # Contribute 
 
-Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/AI-in-Engineered-Systems/blob/main/CONTRIBUTING.md) page on GitHub.
+Looking for more? Find an issue? Have a suggestion? Please contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@mathworks.com). If you want to contribute directly to this project, you can find information about how to do so in the [CONTRIBUTING.md](https://github.com/MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI/blob/release/CONTRIBUTING.md) page on GitHub.
 
 © Copyright 2026 The MathWorks, Inc
