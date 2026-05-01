@@ -63,7 +63,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 ## [**GenAIFundamentals.mlx**](./Scripts/GenAIFundamentals.mlx)
 ||||
 | :-: | :-- | :-- |
-| <img src="Images/GenAIBrain.png" width="211" alt="GenAIBrain.png"> <br>  | **In this script, students will...** <br> $\bullet$ Acquire knowledge of GenAI terminology and classifications <br> $\bullet$ Identify capabilities and limitations of current GenAI  <br> $\bullet$ Explore ways to access and interact with LLMs and tools in MATLAB <br> $\bullet$ Implement a local LLM with a tool in MATLAB and analyze its output <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
+| <img src="Images/GenAIBrain.png" width="211" alt="GenAIBrain.png"> <br> Created with Adobe Firefly  | **In this script, students will...** <br> $\bullet$ Acquire knowledge of GenAI terminology and classifications <br> $\bullet$ Identify capabilities and limitations of current GenAI  <br> $\bullet$ Explore ways to access and interact with LLMs and tools in MATLAB <br> $\bullet$ Implement a local LLM with a tool in MATLAB and analyze its output <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
 
 ## [**IntroToCopilot.mlx**](./Scripts/IntroToCopilot.mlx)
 ||||
