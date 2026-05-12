@@ -70,11 +70,6 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 | :-: | :-- | :-- |
 | <img src="Images/matlab-copilot-blue.svg" width="202" alt="matlab-copilot-blue.svg"> <br>  | **In this script, students will...** <br> $\bullet$ Learn the primary features of MATLAB and Simulink Copilot  <br> $\bullet$ Generate code with MATLAB Copilot to solve an engineering problem <br> $\bullet$ Investigate and analyze a physical model using Simulink Copilot <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
 
-## **CopilotForLearners.mlx (planned)**
-||||
-| :-: | :-- | :-- |
-| <img src="Images/image_5.svg" width="202" alt="image_5.svg"> <br>  | **In this script, students will...** <br> $\bullet$ Integrate Copilot into learning workflows <br> $\bullet$ Use MATLAB and Simulink Copilot to assist in solving engineering problems <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
-
 <a id="H_F61733D7"></a>
 
 # License
