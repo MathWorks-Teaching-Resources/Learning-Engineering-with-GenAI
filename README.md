@@ -54,7 +54,7 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 
 ## Products
 
- *MATLAB* is used throughout this module. Tools from  *Simulink, Simscape, Simscape Fluids, Symbolic Toolbox, MATLAB Copilot, and Simulink Copilot are used as well.* are used as well. If your module uses a product not on this list, you can find it [*here*](https://www.mathworks.com/products.html)*.*
+ *MATLAB* is used throughout this module. Tools from  *Simulink, Simscape, Simscape Fluids, Symbolic Toolbox, Signal Processing Toolbox, MATLAB Copilot, and Simulink Copilot are used as well.* are used as well. If your module uses a product not on this list, you can find it [*here*](https://www.mathworks.com/products.html)*.*
 
 <a id="H_E8C62B23"></a>
 
