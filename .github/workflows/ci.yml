@@ -76,10 +76,10 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        Releases: [R2026a,latest]
+        Releases: [R2025b, R2026a]
     runs-on: ubuntu-latest
     env:
-      MATLAB_PRODUCTS: MATLAB Simulink Simscape Simscape_Fluids Symbolic_Math_Toolbox
+      MATLAB_PRODUCTS: MATLAB Simulink Simscape Simscape_Fluids Symbolic_Math_Toolbox Signal_Processing_Toolbox
       LD_PRELOAD: /usr/lib/x86_64-linux-gnu/libstdc++.so.6
     steps:
       # Checks-out your repository
