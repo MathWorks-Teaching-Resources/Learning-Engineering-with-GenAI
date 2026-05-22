@@ -88,6 +88,11 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 | :-- | :-- |
 | <img src="Images/image_9.png" width="171" alt="image_9.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/180661-computer-vision-basics?s_tid=srchtitle)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=README.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Computer-Vision-Basics)  <br>   |
 
+## [Engineering Problem Solving](https://www.mathworks.com/matlabcentral/fileexchange/180430-engineering-problem-solving?s_tid=srchtitle)
+|||
+| :-- | :-- |
+| <img src="Images/SystemsCover.png" width="171" alt="SystemsCover"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/180430-engineering-problem-solving?s_tid=srchtitle)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Engineering-Problem-Solving&project=EngineeringProblemSolving.prj&file=README.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Engineering-Problem-Solving)  <br>   |
+
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
 
 # Educator Resources
