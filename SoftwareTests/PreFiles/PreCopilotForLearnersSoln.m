@@ -1,5 +1,6 @@
 % Pre-run script for CopilotForLearnersSoln.mlx
 % ---- Known Issues -----
-KnownIssuesID = "";
+KnownIssuesID = ["MATLAB:MException:MultipleErrors";"MATLAB:Editor:Document:NotAvailable"];
 % ---- Pre-run commands -----
  
+out = 1;
