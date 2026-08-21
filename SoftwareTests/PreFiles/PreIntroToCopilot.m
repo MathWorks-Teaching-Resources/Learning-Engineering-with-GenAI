@@ -5,10 +5,3 @@ KnownIssuesID = "MATLAB:Editor:Document:NotAvailable";
  
 curloc = "N/A";
 rootdir = pwd;
-
-open = @(str)MyOpen(str)
-
-function MyOpen(str)
-assert(exist(str,"file"))
-disp("Opening the file" + str)
-end

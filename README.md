@@ -6,7 +6,7 @@
 
 [![View on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://www.mathworks.com/matlabcentral/fileexchange/183786-learning-engineering-with-genai) or [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI&project=LearnGenAI.prj&file=README.mlx)
 
-[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https://mathworks-teaching-resources.github.io/Learning-Engineering-with-GenAI/TestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Learning-Engineering-with-GenAI)
+[![MATLAB Versions Tested](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FMathWorks-Teaching-Resources%2FLearning-Engineering-with-GenAI%2Frelease%2FImages%2FTestedWith.json)](https://MathWorks-Teaching-Resources.github.io/Learning-Engineering-with-GenAI)
 
 **Curriculum Module**
 
@@ -32,7 +32,7 @@ Contact the [MathWorks Educator Content Development Team](mailto:onlineteaching@
 
 ## Prerequisites
 
-This module assumes some general genAI knowledge and basic MATLAB skills. There is some MATLAB knowledge required for these scripts and models, and you could use [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted) and [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink) as resources to acquire familiarity with MATLAB syntax, live scripts, and Simulink models.
+This module assumes some general genAI knowledge and basic MATLAB skills. There is some MATLAB knowledge required for these scripts and models, and you could use [MATLAB Onramp](https://matlabacademy.mathworks.com/details/matlab-onramp/gettingstarted), [Simulink Onramp](https://matlabacademy.mathworks.com/details/simulink-onramp/simulink), and [Simscape Onramp](https://matlabacademy.mathworks.com/details/simscape-onramp/simscape) as resources to acquire familiarity with MATLAB syntax, live scripts, and Simulink/Simscape models.
 
 <a id="H_330E72C3"></a>
 
@@ -42,7 +42,7 @@ This module assumes some general genAI knowledge and basic MATLAB skills. There 
 
 ### **On MATLAB Online:**
 
-Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/AI-in-Engineered-Systems&project=LearnGenAI.prj&file=README.mlx) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
+Use the [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI&project=LearnGenAI.prj&file=README.mlx) link to download the module. You will be prompted to log in or create a MathWorks account. The project will be loaded, and you will see an app with several navigation options to get you started.
 
 ### **On Desktop:**
 
@@ -54,21 +54,28 @@ Ensure you have all the required products ([listed below](#H_E850B4FF)) installe
 
 ## Products
 
- *MATLAB* is used throughout this module. Tools from  *Simulink, Simscape, Simscape Fluids, Symbolic Toolbox, Signal Processing Toolbox, MATLAB Copilot, and Simulink Copilot are used as well.* are used as well. If your module uses a product not on this list, you can find it [*here*](https://www.mathworks.com/products.html)*.*
+ *MATLAB* is used throughout this module. Tools from  *Simulink, Simscape, Simscape Fluids, Symbolic Toolbox, MATLAB Copilot, and Simulink Copilot* are used as well. If your module uses a product not on this list, you can find it [*here*](https://www.mathworks.com/products.html)*.*
 
 <a id="H_E8C62B23"></a>
 
 # Scripts
 
-## [**GenAIFundamentals.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI&project=LearnGenAI.prj&file=Scripts/GenAIFundamentals.mlx)
+## [**GenAIFundamentals.mlx**](./Scripts/GenAIFundamentals.mlx)
 ||||
 | :-: | :-- | :-- |
-| <img src="Images/GenAIBrain.png" width="211" alt="GenAIBrain.png"> <br> Created with Adobe Firefly  | **In this script, students will...** <br> $\bullet$ Acquire knowledge of GenAI terminology and classifications <br> $\bullet$ Identify capabilities and limitations of current GenAI  <br> $\bullet$ Explore ways to access and interact with LLMs and tools in MATLAB <br> $\bullet$ Implement a local LLM with a tool in MATLAB and analyze its output <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
+| <img src="Images/GenAIBrain.png" width="211" alt="GenAIBrain.png"> <br> Created with Adobe Firefly <br>  | **In this script, students will...** <br> $\bullet$ Acquire knowledge of GenAI terminology and classifications <br> $\bullet$ Identify capabilities and limitations of current GenAI  <br> $\bullet$ Explore ways to access and interact with LLMs and tools in MATLAB <br> $\bullet$ Implement a local LLM with a tool in MATLAB and analyze its output <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
 
-## [**IntroToCopilot.mlx**](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Learning-Engineering-with-GenAI&project=LearnGenAI.prj&file=Scripts/IntroToCopilot.mlx)
+## [**IntroToCopilot.mlx**](./Scripts/IntroToCopilot.mlx)
 ||||
 | :-: | :-- | :-- |
 | <img src="Images/matlab-copilot-blue.svg" width="202" alt="matlab-copilot-blue.svg"> <br>  | **In this script, students will...** <br> $\bullet$ Learn the primary features of MATLAB and Simulink Copilot  <br> $\bullet$ Generate code with MATLAB Copilot to solve an engineering problem <br> $\bullet$ Investigate and analyze a physical model using Simulink Copilot <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
+
+<a id="TMP_960c"></a>
+
+## [**CopilotForLearners.mlx**](./Scripts/CopilotForLearners.mlx)
+||||
+| :-: | :-- | :-- |
+| <img src="Images/image_5.png" width="238" alt="image_5.png"> <br>  | **In this script, students will...** <br> $\bullet$ Integrate Copilot into learning workflows <br> $\bullet$ Observe the results of various prompts <br> $\bullet$ Explore a manufacturing problem using Copilot <br> $\bullet$ Explore an electrical problem using Copilot <br> $\bullet$ Explore a signal processing problem using Copilot <br> $\bullet$ Explore a mechanical problem using Copilot <br>  | **Academic disciplines** <br> $\bullet$ All Engineering Disciplines <br> $\bullet$ Artificial Intelligence  <br>   |
 
 <a id="H_F61733D7"></a>
 
@@ -87,11 +94,6 @@ The license for this module is available in the [LICENSE.md](https://github.com/
 |||
 | :-- | :-- |
 | <img src="Images/image_9.png" width="171" alt="image_9.png"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/180661-computer-vision-basics?s_tid=srchtitle)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Computer-Vision-Basics&project=ComputerVisionBasics.prj&file=README.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Computer-Vision-Basics)  <br>   |
-
-## [Engineering Problem Solving](https://www.mathworks.com/matlabcentral/fileexchange/180430-engineering-problem-solving?s_tid=srchtitle)
-|||
-| :-- | :-- |
-| <img src="Images/SystemsCover.png" width="171" alt="SystemsCover"> <br>  | **Available on:** <br> [<img src="Images/OpenInFX.png" width="91" alt="OpenInFX.png">](https://www.mathworks.com/matlabcentral/fileexchange/180430-engineering-problem-solving?s_tid=srchtitle)  <br> [<img src="Images/OpenInMO.png" width="136" alt="OpenInMO.png">](https://matlab.mathworks.com/open/github/v1?repo=MathWorks-Teaching-Resources/Engineering-Problem-Solving&project=EngineeringProblemSolving.prj&file=README.mlx)  <br> [GitHub](https://github.com/MathWorks-Teaching-Resources/Engineering-Problem-Solving)  <br>   |
 
 Or feel free to explore our other [modular courseware content](https://www.mathworks.com/matlabcentral/fileexchange/?q=tag%3A%22courseware+module%22&sort=downloads_desc_30d).
 
