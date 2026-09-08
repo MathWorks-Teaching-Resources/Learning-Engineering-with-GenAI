@@ -115,8 +115,9 @@ jobs:
         uses: actions/upload-artifact@v6
         with:
           name: ${{ matrix.Releases }}
-          path: |
-            ./public/${{ matrix.Releases }}/
+          # Upload the public folder so the release subfolder is preserved.
+          # The report validator expects public/<release>/*.mat.
+          path: ./public/
           overwrite: true
           retention-days: 7
 
@@ -146,7 +147,9 @@ jobs:
         with:
           path: public
           pattern: R20*
-          merge-multiple: false
+          # Each artifact contains its release subfolder. Merge them into
+          # public/ so public/<release>/ remains intact for validation.
+          merge-multiple: true
 
       # Aggregate test reports and generate badge via buildfile.
       - name: Run buildtool report
